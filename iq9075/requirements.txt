@@ -1,0 +1,8 @@
+# IQ-9075 EVK (QCS9075) - Depth Anything live
+tflite-runtime
+pyrealsense2
+opencv-python
+numpy
+
+# Optional: live streaming to Rerun (run with --rerun)
+# rerun-sdk

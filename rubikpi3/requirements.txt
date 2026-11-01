@@ -1,0 +1,8 @@
+# Rubik Pi 3 (QCS6490) - MiDaS V2 w8a8 live
+ai-edge-litert
+pyrealsense2
+opencv-python
+numpy
+
+# Optional: live streaming to Rerun (run with --rerun)
+# rerun-sdk
